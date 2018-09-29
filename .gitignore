@@ -1,0 +1,7 @@
+home-assistant.log
+secrets.yaml
+known_devices.yaml
+~/.gitignore
+.*
+config
+ozw_config
