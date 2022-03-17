@@ -3,5 +3,5 @@ secrets.yaml
 known_devices.yaml
 ~/.gitignore
 .*
-config
+#config
 ozw_config
